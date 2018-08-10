@@ -1,0 +1,64 @@
+body
+{
+  background-image: url(http://localhost/BRM_OOPS/IMAGES/updateForm.jpg);
+  background-size: cover;
+}
+Table
+{
+	border-style:solid;
+	border-color:#a86048;
+	width:400px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+    color: white;
+}
+
+th,td
+{
+  padding: 2px;
+}
+#sub
+{
+   position: relative;
+   top: 30px;
+   left:300px;
+   border: 2px solid #a86048;
+   width: 100px;
+   height: 30px;
+   background-color: transparent;
+   font-size: 15px;
+}
+#sub:hover
+{
+  background-color: #a86048;
+  color: white;
+  cursor: pointer;
+}
+#logout
+{
+  position:absolute; 
+  top:10px;
+  left:80%; 
+  border:1px solid #F05034;
+  padding:3px; 
+  font-size:30px;  
+  text-decoration: none; 
+  color:#F05034;  
+}
+#logout:hover
+{
+  color: white;
+  background-color:#F05034;
+  border: 1px solid white;
+}
+#heading
+{
+  position: relative;
+  top: 10px;
+  left: 35%;
+  color:#d8a878;
+  border: 1px solid #d8a878;
+  width: 390px;
+  padding: 5px;
+}

@@ -1,0 +1,39 @@
+body
+{
+  background-image: url(http://localhost/BRM_OOPS/IMAGES/adminPanel.jpg);
+  background-size: cover;
+}
+.anchor
+{
+  text-align: center;
+  position: relative;
+  top: 250px;
+  left: 35%;
+  text-decoration: none;
+  border: 1px solid #FFEB42;
+  padding: 3px;
+  color: #FFEB42;
+  font-size: 30px;
+}
+.anchor:hover
+{
+  color: black;
+  background-color: #FF8B39;
+}
+#logout
+{
+  position:relative; 
+  top:10px;
+  left:50%; 
+  border:1px solid #F05034;
+  padding:3px; 
+  font-size:30px;  
+  text-decoration: none; 
+  color:#F05034;  
+}
+#logout:hover
+{
+  color: white;
+  background-color:#F05034;
+  border: 1px solid white;
+}

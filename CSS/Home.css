@@ -1,0 +1,31 @@
+body
+{
+  background-image: url(http://localhost/BRM_OOPS/IMAGES/home.jpg);
+  background-size:cover;
+}
+#container>h1
+{
+  text-align: center;
+  position: relative;
+  top: 25px;
+  background-color: #94dee2;
+  height: 100px; 
+}
+.c1
+{
+  text-decoration: none;
+  position: relative;
+  left: 40%;
+  top: 220px;
+  color: #00b7cc;
+  font-size: 30px;
+  border: 1px solid #00b7cc;
+  padding: 3px;
+  margin: 10px;
+}
+.c1:hover
+{
+  color: white;
+  background-color: #00b7cc; 
+
+}

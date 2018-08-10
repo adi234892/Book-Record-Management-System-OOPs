@@ -1,0 +1,60 @@
+body
+{
+  background-image: url(http://localhost/BRM_OOPS/IMAGES/insert.jpg);
+  background-size: cover;
+}
+.insert
+{
+  position: relative;
+  top: 200px;
+  left: 440px;
+  font-size: 30px;
+  color:cornflowerblue;
+
+}
+#sub
+{
+  position: relative;
+  top: 200px;
+  left: 560px;
+  margin-top: 10px;
+  font-size: 30px;
+  text-decoration: none;
+  color: cornflowerblue;
+  border: 1px solid cornflowerblue;
+  background-color: transparent;
+  
+}
+#sub:hover
+{
+  cursor: pointer;
+  background-color: cornflowerblue;
+  color: white;
+}
+#logout
+{
+  position:absolute; 
+  top:10px;
+  left:80%; 
+  border:1px solid #F05034;
+  padding:3px; 
+  font-size:30px;  
+  text-decoration: none; 
+  color:#F05034;  
+}
+#logout:hover
+{
+  color: white;
+  background-color:#F05034;
+  border: 1px solid white;
+}
+#heading
+{
+  position: relative;
+  top: 10px;
+  left: 40%;
+  color:#d3d8de;
+  border: 1px solid #d3d8de;
+  width: 390px;
+  padding: 5px;
+}

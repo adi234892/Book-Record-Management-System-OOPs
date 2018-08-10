@@ -1,0 +1,64 @@
+body
+{
+  background-image: url(http://localhost/BRM_OOPS/IMAGES/deleteForm.jpeg);
+  background-size: cover;
+}
+Table
+{
+	border-style:solid;
+	border-color:#ffb400;
+	width:400px;
+    position: relative;
+    top: 20px;
+    left: 450px;
+    color: white;
+}
+
+th,td
+{
+  padding: 2px;
+}
+#sub
+{
+   position: relative;
+   top: 30px;
+   left:600px;
+   border: 2px solid #ffb400;
+   width: 100px;
+   height: 30px;
+   background-color: transparent;
+   font-size: 15px;
+}
+#sub:hover
+{
+  background-color: #ffb400;
+  color: white;
+  cursor: pointer;
+}
+#heading
+{
+  position: relative;
+  top: 10px;
+  left: 33%;
+  color:#ffb400;
+  border: 1px solid #ffb400;
+  width: 390px;
+  padding: 5px;
+}
+#logout
+{
+  position:absolute; 
+  top:10px;
+  left:80%; 
+  border:1px solid #F05034;
+  padding:3px; 
+  font-size:30px;  
+  text-decoration: none; 
+  color:#F05034;  
+}
+#logout:hover
+{
+  color: white;
+  background-color:#F05034;
+  border: 1px solid white;
+}
